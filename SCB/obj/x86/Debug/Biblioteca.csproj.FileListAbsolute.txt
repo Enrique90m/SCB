@@ -1,0 +1,14 @@
+C:\Users\kike\AppData\Local\Temporary Projects\Biblioteca\bin\Debug\Biblioteca.exe
+C:\Users\kike\AppData\Local\Temporary Projects\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\kike\AppData\Local\Temporary Projects\Biblioteca\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\kike\AppData\Local\Temporary Projects\Biblioteca\obj\x86\Debug\Biblioteca.Form1.resources
+C:\Users\kike\AppData\Local\Temporary Projects\Biblioteca\obj\x86\Debug\Biblioteca.Properties.Resources.resources
+C:\Users\kike\AppData\Local\Temporary Projects\Biblioteca\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\kike\AppData\Local\Temporary Projects\Biblioteca\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\kike\AppData\Local\Temporary Projects\Biblioteca\obj\x86\Debug\Biblioteca.exe
+C:\Users\kike\AppData\Local\Temporary Projects\Biblioteca\obj\x86\Debug\Biblioteca.pdb
+C:\Users\kike\AppData\Local\Temporary Projects\Biblioteca\bin\Debug\BDlibros.mdf
+C:\Users\kike\AppData\Local\Temporary Projects\Biblioteca\bin\Debug\BDlibros_log.ldf
+C:\Users\kike\AppData\Local\Temporary Projects\Biblioteca\bin\Debug\Biblioteca.exe.config
+C:\Users\kike\AppData\Local\Temporary Projects\Biblioteca\obj\x86\Debug\Biblioteca.agregaLibro.resources
+C:\Users\kike\AppData\Local\Temporary Projects\Biblioteca\obj\x86\Debug\Biblioteca.TodosLosLibros.resources

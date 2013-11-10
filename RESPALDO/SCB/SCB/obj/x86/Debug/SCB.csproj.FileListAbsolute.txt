@@ -1,0 +1,16 @@
+C:\SCB\SCB\bin\Debug\SCB.exe.config
+C:\SCB\SCB\bin\Debug\BDlibros.mdf
+C:\SCB\SCB\bin\Debug\BDlibros_log.ldf
+C:\SCB\SCB\bin\Debug\SCB.exe
+C:\SCB\SCB\bin\Debug\SCB.pdb
+C:\SCB\SCB\obj\x86\Debug\Biblioteca.agregaLibro.resources
+C:\SCB\SCB\obj\x86\Debug\Biblioteca.TodosLosLibros.resources
+C:\SCB\SCB\obj\x86\Debug\Biblioteca.Form1.resources
+C:\SCB\SCB\obj\x86\Debug\Biblioteca.Properties.Resources.resources
+C:\SCB\SCB\obj\x86\Debug\SCB.exe
+C:\SCB\SCB\obj\x86\Debug\SCB.pdb
+C:\SCB\SCB\obj\x86\Debug\Biblioteca.Ingreso.resources
+C:\SCB\SCB\obj\x86\Debug\Biblioteca.enviarCorreo.resources
+C:\SCB\SCB\obj\x86\Debug\SCB.csprojResolveAssemblyReference.cache
+C:\SCB\SCB\obj\x86\Debug\SCB.csproj.GenerateResource.Cache
+C:\SCB\SCB\obj\x86\Debug\Biblioteca.DescripcionLibro.resources
